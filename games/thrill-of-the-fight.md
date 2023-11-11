@@ -1,0 +1,3 @@
+# Thrill of the Fight
+
+> The intended setting for your multiplier is to make the top force numbers you consistently get from comfortably-thrown punches hit for the force max of 3600. So if your top-end, comfortably-thrown crosses are landing for 2500, you should be using a multiplier of 1.4x or 1.5x (because 3600 / 2500 = 1.44). It's also worth reexamining your hooks by checking at the heavy bag instead of the dummy, and making sure you're throwing in a comfortable and sustainable way and not just as hard as you possibly can. You don't want to use the dummy for this, because you don't want to factor weak point bonus damage into your multiplier.
