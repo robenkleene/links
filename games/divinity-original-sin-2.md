@@ -24,6 +24,10 @@
 ## Builds
 
 - Geo/Pyro [Steam Community :: Guide :: Honour Build - Scarlet Inquisitor (Wizard)](https://steamcommunity.com/sharedfiles/filedetails/?id=1179854587)
+- [Steam Community :: Guide :: Sebille Honour Build - Night Fury (Rogue)](https://steamcommunity.com/sharedfiles/filedetails/?id=1173316614)
+- [Steam Community :: Guide :: Honour Build - Scarlet Inquisitor (Wizard)](https://steamcommunity.com/sharedfiles/filedetails/?id=1179854587)
+- [Steam Community :: Guide :: Honour Build - All Mother (Elemental Conjurer)](https://steamcommunity.com/sharedfiles/filedetails/?id=1518303306)
+- [Steam Community :: Guide :: Honour Build - Crimson Queen (Necromancer)](https://steamcommunity.com/sharedfiles/filedetails/?id=1179657481)
 
 ### Old
 
