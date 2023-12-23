@@ -21,12 +21,15 @@
 - [Divinity: Original Sin 2 Walkthrough and Guide - Neoseeker](https://www.neoseeker.com/divinity-original-sin-ii/walkthrough)
 - [Divinity: Original Sin 2 - Beginner's Starting Guide and Fort Joy Tips](https://www.pcinvasion.com/divinity-original-sin-2-starting-guide-beginners-tips/)
 [Act 2 Level map](https://divinityoriginalsin2.vidyawiki.com/storage/images/afb9e62a60d4f45898d8ada3cf34806c2340496b.jpg)
+
 ## Builds
 
 - [Steam Community :: Guide :: Sebille Honour Build - Night Fury (Rogue)](https://steamcommunity.com/sharedfiles/filedetails/?id=1173316614)
 - [Steam Community :: Guide :: Honour Build - Scarlet Inquisitor (Wizard)](https://steamcommunity.com/sharedfiles/filedetails/?id=1179854587)
 - [Steam Community :: Guide :: Honour Build - All Mother (Elemental Conjurer)](https://steamcommunity.com/sharedfiles/filedetails/?id=1518303306)
 - [Steam Community :: Guide :: Honour Build - Crimson Queen (Necromancer)](https://steamcommunity.com/sharedfiles/filedetails/?id=1179657481)
+
+### Alternative
 
 ### Old
 
