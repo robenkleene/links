@@ -20,7 +20,7 @@
 - [Thanks sin tee for the unstoppable builds : DivinityOriginalSin](https://www.reddit.com/r/DivinityOriginalSin/comments/8kf3k2/thanks_sin_tee_for_the_unstoppable_builds/)
 - [Divinity: Original Sin 2 Walkthrough and Guide - Neoseeker](https://www.neoseeker.com/divinity-original-sin-ii/walkthrough)
 - [Divinity: Original Sin 2 - Beginner's Starting Guide and Fort Joy Tips](https://www.pcinvasion.com/divinity-original-sin-2-starting-guide-beginners-tips/)
-[Act 2 Level map](https://divinityoriginalsin2.vidyawiki.com/storage/images/afb9e62a60d4f45898d8ada3cf34806c2340496b.jpg)
+- [Areas By Level | Divinity Original Sin 2 Wiki | The Vidya](https://divinityoriginalsin2.vidyawiki.com/Areas+By+Level)
 
 ## Builds
 
