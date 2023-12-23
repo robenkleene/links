@@ -28,6 +28,7 @@
 - [Steam Community :: Guide :: Honour Build - Scarlet Inquisitor (Wizard)](https://steamcommunity.com/sharedfiles/filedetails/?id=1179854587)
 - [Steam Community :: Guide :: Honour Build - All Mother (Elemental Conjurer)](https://steamcommunity.com/sharedfiles/filedetails/?id=1518303306)
 - [Steam Community :: Guide :: Honour Build - Crimson Queen (Necromancer)](https://steamcommunity.com/sharedfiles/filedetails/?id=1179657481)
+- [Steam Community :: Guide :: Honour Build - Fire Fury (Spellsword)](https://steamcommunity.com/sharedfiles/filedetails/?id=1521634004)
 
 ### Alternative
 
