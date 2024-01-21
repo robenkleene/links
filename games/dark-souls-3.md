@@ -4,8 +4,18 @@
 
 - [How should level 90 Quality build look like? : darksouls3](https://www.reddit.com/r/darksouls3/comments/7lgpxz/how_should_level_90_quality_build_look_like/)
 - [Dark Souls 3 Quality Build | Hypercarry](https://www.hypercarry.com/games/dark-souls-3/builds/quality-build/)
-- [MugenMonkey](https://mugenmonkey.com/darksouls3/weapons)
+
+### Pyro Spellsword
+
 - [Pyromancer-Swordman Hybrid Build (SL125) | Dark Souls 3 Wiki](https://darksouls3.wiki.fextralife.com/Pyromancer-Swordman+Hybrid+Build+(SL125))
+
+### Sorcerer Spellsword
+
+- [Mage/katana build suggestions : r/darksouls3](https://www.reddit.com/r/darksouls3/comments/111ogm6/magekatana_build_suggestions/)
+- [What's the best Sorcerer-Swordsman PVE build? : r/darksouls3](https://www.reddit.com/r/darksouls3/comments/n1ioff/whats_the_best_sorcererswordsman_pve_build/)
+- [Sword mage build? : r/darksouls3](https://www.reddit.com/r/darksouls3/comments/rcu0zp/sword_mage_build/)
+- [Dark Souls 3 Character Planner](https://soulsplanner.com/darksouls3/119272)
+- [Best weapon infusion for pure intelligence build? : r/darksouls3](https://www.reddit.com/r/darksouls3/comments/4zvop3/best_weapon_infusion_for_pure_intelligence_build/)
 
 ## Walkthrough
 
