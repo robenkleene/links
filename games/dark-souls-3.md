@@ -16,6 +16,7 @@
 - [Sword mage build? : r/darksouls3](https://www.reddit.com/r/darksouls3/comments/rcu0zp/sword_mage_build/)
 - [Dark Souls 3 Character Planner](https://soulsplanner.com/darksouls3/119272)
 - [Best weapon infusion for pure intelligence build? : r/darksouls3](https://www.reddit.com/r/darksouls3/comments/4zvop3/best_weapon_infusion_for_pure_intelligence_build/)
+- [(1) Please help build an Int/Dex build! : darksouls3](https://www.reddit.com/r/darksouls3/comments/gitc3o/please_help_build_an_intdex_build/)
 
 ## Walkthrough
 
