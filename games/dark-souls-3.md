@@ -18,6 +18,12 @@
 - [Best weapon infusion for pure intelligence build? : r/darksouls3](https://www.reddit.com/r/darksouls3/comments/4zvop3/best_weapon_infusion_for_pure_intelligence_build/)
 - [(1) Please help build an Int/Dex build! : darksouls3](https://www.reddit.com/r/darksouls3/comments/gitc3o/please_help_build_an_intdex_build/)
 
+#### Staffs
+
+[(1) Court Sorcerer Staff vs Crystal Sage Staff : darksouls3](https://www.reddit.com/r/darksouls3/comments/b0gz8w/court_sorcerer_staff_vs_crystal_sage_staff/):
+
+> TL:DR if your 50+ and a pure spell caster use Sage, if your 50+ and are a magic swordsman use Court. if your below 50 use Sorcerer's.
+
 ## Walkthrough
 
 - [Dark Souls III Game Guide & Walkthrough | gamepressure.com](https://guides.gamepressure.com/darksouls3/)
