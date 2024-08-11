@@ -5,6 +5,11 @@
 - [How should level 90 Quality build look like? : darksouls3](https://www.reddit.com/r/darksouls3/comments/7lgpxz/how_should_level_90_quality_build_look_like/)
 - [Dark Souls 3 Quality Build | Hypercarry](https://www.hypercarry.com/games/dark-souls-3/builds/quality-build/)
 
+### Moonlight
+
+- [Moonlight greatsword help : r/darksouls3](https://www.reddit.com/r/darksouls3/comments/5bh1ys/moonlight_greatsword_help/)
+- [Moonlight Greatsword Build? : r/darksouls3](https://www.reddit.com/r/darksouls3/comments/5la0qw/moonlight_greatsword_build/)
+
 ### Pyro Spellsword
 
 - [Pyromancer-Swordman Hybrid Build (SL125) | Dark Souls 3 Wiki](https://darksouls3.wiki.fextralife.com/Pyromancer-Swordman+Hybrid+Build+(SL125))
